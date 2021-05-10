@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tommi A. Haavisto
-- 🌱 Familiar with FRONT-END design
+- 🌱 Familiar with FRONT-END design (CSS, React.JS)
 - 💞️ Python, Javascript, R and SQL
 - 📫 Send email to: harvest.tah@gmail.com
 
