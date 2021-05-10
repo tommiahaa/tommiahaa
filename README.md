@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tommi A. Haavisto
-- 🌱 I’m currently learning JavaScript & Python
-- 💞️ I’m looking for work
+- 🌱 Familiar with FRONT-END design
+- 💞️ Python, Javascript, R and SQL
 - 📫 Send email to: harvest.tah@gmail.com
 
 <!---
