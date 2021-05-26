@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tommi A. Haavisto
-- 🌱 Familiar with FRONT-END design (CSS, React.JS)
-- 💞️ Python, Javascript, R and SQL
+- 🌱 Python, Frontend design (HTML, CSS, Javascript, React), Data-analysis (R and SQL)
+- 💞️ Creativity, Music, Synthesizers
 - 📫 Send email to: harvest.tah@gmail.com
 
 <!---
